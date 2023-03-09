@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 227, 185);
+    text-align: left;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
