@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(172, 255, 227);
+    text-align: left;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
