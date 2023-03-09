@@ -12,3 +12,9 @@ img {
     height: 500px;
     width: auto;
 }
+
+button {
+    background-color: rgb(172, 255, 227);
+    font-size: 18px;
+    font-weight: bold;
+}
